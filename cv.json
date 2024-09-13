@@ -1,45 +1,39 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "name": "Ismael Melgarejo",
+    "label": "Junior Frontend Developer",
+    "image": "/portrait.webp",
+    "email": "ismaelmelgarejo@gmail.com",
+    "url": "https://ismaelmelgarejo.com",
+    "summary": "Desarrollador frontend con conocimientos básicos en la creación de interfaces web utilizando HTML, CSS y JavaScript. Experiencia previa de 8 años en administración de infraestructura IT, Servidores Linux y visualización.",
     "theme": "default",
     "location": {
       "address": "",
       "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "city": "Asuncion",
+      "countryCode": "PY",
+      "region": "Paraguay"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "ismaelmelgarejo",
+        "url": "https://linkedin.com/in/ismaelmelgarejo"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "ismaelmelgarejo",
+        "url": "https://github.com/ismaelmelgarejo"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
+      "name": "Ministerio de Economía y Finanzas",
+      "position": "Analista Desarrollador",
+      "location_type": "Presencial",
+      "location": "Asunción, Paraguay",
+      "url": "https://www.mef.gov.py/",
       "startDate": "2024-01-01",
       "endDate": null,
       "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
@@ -61,14 +55,66 @@
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "Secretaría Técnica de Planificación",
+      "position": "Jefe del Departamento de Infraestructura",
+      "location_type": "Presencial",
+      "location": "Asunción, Paraguay",
+      "url": "https://www.stp.gov.py/v1/",
+      "startDate": "2022-08-01",
+      "endDate": "2023-12-21",
+      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "highlights": [
+        "Improved website performance by optimizing code"
+      ],
+      "responsibilities": [
+        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
+        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
+        "Participated in code reviews and contributed to improving coding standards within the team."
+      ],
+      "achievements": [
+        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+      ],
+      "skills": [
+        "React",
+        "Tailwind",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Secretaría Nacional Anticorrupción",
+      "position": "Jefe del Departamento de Infraestructura",
+      "location_type": "Presencial",
+      "location": "Asunción, Paraguay",
+      "url": "https://senac.gov.py/",
+      "startDate": "2019-08-01",
+      "endDate": "2022-08-01",
+      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "highlights": [
+        "Improved website performance by optimizing code"
+      ],
+      "responsibilities": [
+        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
+        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
+        "Participated in code reviews and contributed to improving coding standards within the team."
+      ],
+      "achievements": [
+        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+      ],
+      "skills": [
+        "React",
+        "Tailwind",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Secretaría Técnica de Planificación",
+      "position": "Soporte Técnico",
+      "location_type": "Presencial",
+      "location": "Asunción, Paraguay",
+      "url": "https://www.stp.gov.py/v1/",
+      "startDate": "2015-08-01",
+      "endDate": "2019-08-01",
+      "summary": "Enfoque en proporcionar asistencia para la instalación, mantenimiento y resolución de problemas de hardware, software y redes institucionales.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
@@ -88,19 +134,16 @@
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
+      "name": "Financiera Paraguayo Japonesa",
+      "position": "Soporte Técnico",
+      "location_type": "Presencial",
+      "location": "Asunción, Paraguay",
+      "url": "https://www.fpj.com.py/",
       "startDate": "2022-06-01",
       "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "summary": "Enfoque en proporcionar asistencia para la instalación, mantenimiento y resolución de problemas de hardware, software y redes.",
       "highlights": [
         "Completed several client projects successfully"
-      ],
-      "skills": [
-        "HTML",
-        "CSS"
       ]
     }
   ],
@@ -318,47 +361,6 @@
     }
   ],
   "projects": [
-    {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
-    }
+    
   ]
 }
