@@ -4,6 +4,7 @@
     "label": "Junior Frontend Developer",
     "image": "/portrait.webp",
     "email": "ismaelmelgarejo@gmail.com",
+    "phone": "+1 555-555-5555",
     "url": "https://ismaelmelgarejo.com",
     "summary": "Desarrollador frontend con conocimientos básicos en la creación de interfaces web utilizando HTML, CSS y JavaScript. Experiencia previa de 8 años en administración de infraestructura IT, Servidores Linux y visualización.",
     "theme": "default",
@@ -36,17 +37,17 @@
       "url": "https://www.mef.gov.py/",
       "startDate": "2024-01-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Desarrollo y mantenimiento de aplicaciones web utilizando JavaScript, HTML, CSS, angular, php y WordPress. Colaborar con el equipo para implementar nuevas funciones y corregir errores.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Rendimiento mejorado del sitio web optimizando el código"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Colaboré con desarrolladores senior para diseñar e implementar aplicaciones web utilizando marcos JavaScript modernos.",
+        "Asistí en la depuración y optimización del código front-end para garantizar experiencias de usuario fluidas.",
+        "Participó en revisiones de código y contribuyó a mejorar los estándares de codificación dentro del equipo."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Desarrollo y mantenimiento de aplicaciones web utilizando JavaScript, HTML y CSS. Colaborar con el equipo para implementar nuevas funciones y corregir errores."
       ],
       "skills": [
         "React",
@@ -139,11 +140,25 @@
       "location_type": "Presencial",
       "location": "Asunción, Paraguay",
       "url": "https://www.fpj.com.py/",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
+      "startDate": "2012-03-01",
+      "endDate": "2014-12-01",
       "summary": "Enfoque en proporcionar asistencia para la instalación, mantenimiento y resolución de problemas de hardware, software y redes.",
       "highlights": [
         "Completed several client projects successfully"
+      ],
+      "responsibilities": [
+        "Developed and maintained backend services using Python and Django.",
+        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
+        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+      ],
+      "achievements": [
+        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+      ],
+      "skills": [
+        "Angular",
+        "Django",
+        "SQL",
+        "Git"
       ]
     }
   ],
@@ -162,42 +177,16 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
+      "institution": "Universidad Americana",
+      "url": "https://www.americana.edu.py/",
+      "area": "Lic. en Informatica",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
+      "startDate": "2020-09-01",
+      "endDate": null,
       "score": "3.8",
       "courses": [
         "CS101 - Introduction to Computer Science",
         "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
       ]
     }
   ],
@@ -361,6 +350,16 @@
     }
   ],
   "projects": [
-    
+    {
+      "name": "Personal Portfolio",
+      "isActive": false,
+      "description": "A personal portfolio website to showcase my projects and skills.",
+      "highlights": [
+        "Built with React and Tailwind CSS",
+        "Includes a blog and contact form"
+      ],
+      "url": "https://johndoe.dev",
+      "github": "https://github.com"
+    }
   ]
 }

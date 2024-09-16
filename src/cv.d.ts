@@ -17,8 +17,8 @@ interface Basics {
   name: string;
   label: string;
   image: string;
+  //phone: string;
   email: string;
-  phone: string;
   url: string;
   summary: string;
   location: Location;
