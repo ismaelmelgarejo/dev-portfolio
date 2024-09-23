@@ -6,7 +6,7 @@
     "email": "ismaelmelgarejo@gmail.com",
     "phone": "+1 555-555-5555",
     "url": "https://ismaelmelgarejo.com",
-    "summary": "Desarrollador frontend con conocimientos básicos en la creación de interfaces web utilizando HTML, CSS y JavaScript. Experiencia previa de 8 años en administración de infraestructura IT, Servidores Linux y visualización.",
+    "summary": "Desarrollador frontend con conocimientos básicos en la creación de interfaces web utilizando HTML, CSS y JavaScript. Experiencia previa de 8 años en administración de infraestructura IT, Servidores Linux y virtualización.",
     "theme": "default",
     "location": {
       "address": "",
@@ -35,24 +35,28 @@
       "location_type": "Presencial",
       "location": "Asunción, Paraguay",
       "url": "https://www.mef.gov.py/",
-      "startDate": "2024-01-01",
+      "startDate": "2024-01-02",
       "endDate": null,
       "summary": "Desarrollo y mantenimiento de aplicaciones web utilizando JavaScript, HTML, CSS, angular, php y WordPress. Colaborar con el equipo para implementar nuevas funciones y corregir errores.",
       "highlights": [
         "Rendimiento mejorado del sitio web optimizando el código"
       ],
       "responsibilities": [
-        "Colaboré con desarrolladores senior para diseñar e implementar aplicaciones web utilizando marcos JavaScript modernos.",
-        "Asistí en la depuración y optimización del código front-end para garantizar experiencias de usuario fluidas.",
-        "Participó en revisiones de código y contribuyó a mejorar los estándares de codificación dentro del equipo."
-      ],
-      "achievements": [
-        "Desarrollo y mantenimiento de aplicaciones web utilizando JavaScript, HTML y CSS. Colaborar con el equipo para implementar nuevas funciones y corregir errores."
+        "Análisis de Requerimientos",
+        "Diseño de Soluciones",
+        "Desarrollo de Software",
+        "Pruebas y Validación",
+        "Documentación Técnica",
+        "Soporte y Mantenimiento",
+        "Optimización y Mejora Continua",
+        "Colaboración en Equipos Multidisciplinarios"
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Angular",
+        "Javascript",
+        "GitHub",
+        "HTML 5",
+        "CSS"
       ]
     },
     {
@@ -68,17 +72,26 @@
         "Improved website performance by optimizing code"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Planificación y Estrategia",
+        "Gestión de Infraestructura",
+        "Gestión de Equipos y Proveedores",
+        "Seguridad Informática",
+        "Optimización y Mejora Continua",
+        "Administración de Redes y Telecomunicaciones",
+        "Gestión de Servicios en la Nube",
+        "Control de Calidad y Cumplimiento",
+        "Soporte a Usuarios Críticos y Gestión de Proyectos",
+        "Reporte y Comunicación con la Dirección"
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Linux",
+        "Zimbra",
+        "Docker",
+        "PFsense",
+        "Nginx",
+        "Jenkins",
+        "Proxmox",
+        "Open Source Tools"
       ]
     },
     {
@@ -94,17 +107,24 @@
         "Improved website performance by optimizing code"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Planificación y Estrategia",
+        "Gestión de Infraestructura",
+        "Gestión de Equipos y Proveedores",
+        "Seguridad Informática",
+        "Optimización y Mejora Continua",
+        "Administración de Redes y Telecomunicaciones",
+        "Gestión de Servicios en la Nube",
+        "Control de Calidad y Cumplimiento",
+        "Soporte a Usuarios Críticos y Gestión de Proyectos",
+        "Reporte y Comunicación con la Dirección"
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Linux",
+        "Zimbra",
+        "Docker",
+        "PFsense",
+        "Nginx",
+        "Jenkins"
       ]
     },
     {
@@ -120,18 +140,22 @@
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Atención y Resolución de Incidencias",
+        "Instalación y Configuración de Equipos",
+        "Mantenimiento Preventivo y Correctivo",
+        "Gestión de Redes y Conectividad",
+        "Seguridad Informática",
+        "Soporte a Usuarios Finales",
+        "Gestión de Incidencias y Documentación",
+        "Actualización de Software y Sistemas",
+        "Gestión de Inventarios",
+        "Soporte Remoto"
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "Linux",
+        "Windows Server",
+        "SQL", 
+        "Zimbra"
       ]
     },
     {
@@ -147,18 +171,21 @@
         "Completed several client projects successfully"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Atención y Resolución de Incidencias",
+        "Instalación y Configuración de Equipos",
+        "Mantenimiento Preventivo y Correctivo",
+        "Gestión de Redes y Conectividad",
+        "Soporte a Usuarios Finales",
+        "Gestión de Incidencias y Documentación",
+        "Actualización de Software y Sistemas",
+        "Gestión de Inventarios",
+        "Soporte Remoto",
+        "Backup Diarios"
       ],
       "skills": [
-        "Angular",
-        "Django",
-        "SQL",
-        "Git"
+        "Linux",
+        "Windows Server",
+        "SQL"
       ]
     }
   ],
@@ -201,7 +228,7 @@
   "skills": [
     {
       "name": "Figma",
-      "level": "Expert",
+      "level": "Beginner",
       "keywords": [
         "Design",
         "UI"
@@ -244,16 +271,6 @@
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
       "name": "TypeScript",
       "level": "Intermediate",
       "keywords": [
@@ -261,16 +278,6 @@
         "Frontend",
         "Backend",
         "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
       ]
     },
     {
@@ -303,19 +310,18 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "React",
       "level": "Beginner",
       "keywords": [
         "Web Development",
         "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
+        "JavaScript Library",
+        "UI"
       ]
     },
     {
-      "name": "React",
-      "level": "Intermediate",
+      "name": "Node",
+      "level": "Beginner",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -327,11 +333,11 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Beginner"
     },
     {
       "language": "Spanish",
-      "fluency": "Intermediate"
+      "fluency": "Native speaker"
     }
   ],
   "interests": [
