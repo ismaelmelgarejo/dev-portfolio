@@ -301,26 +301,6 @@
         "Source Code",
         "Git"
       ]
-    },
-    {
-      "name": "React",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
     }
   ],
   "languages": [
