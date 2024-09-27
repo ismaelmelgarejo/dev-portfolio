@@ -22,7 +22,7 @@ const SKILLS_ICONS: Record<string, any> = {
   HTML, CSS, JavaScript, TypeScript, React, Node, MySQL, Git, GitHub, Next, Tailwind, Swift,SwiftUI, Kotlin, Flutter
 }
 ---
-<Section className={Astro.props.className} title="Experience">
+<Section className={Astro.props.className} title="Experiencia">
   <ul class="flex flex-col">
     {work.map(({ name, startDate, endDate, position, summary, responsibilities, achievements, url, skills, location, location_type }) => {
       const startYear = new Date(startDate).getFullYear()
