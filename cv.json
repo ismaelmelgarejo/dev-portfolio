@@ -2,7 +2,7 @@
   "basics": {
     "name": "Ismael Melgarejo",
     "label": "Junior Frontend Developer",
-    "image": "/portrait.webp",
+    "image": "portrait.webp",
     "email": "ismaelmelgarejo@gmail.com",
     "phone": "+1 555-555-5555",
     "url": "https://ismaelmelgarejo.com",
@@ -241,14 +241,6 @@
     }
   ],
   "skills": [
-    {
-      "name": "Figma",
-      "level": "Beginner",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
     {
       "name": "Gitlab",
       "level": "Intermediate",
