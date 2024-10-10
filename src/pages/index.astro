@@ -6,7 +6,7 @@ import Education from "@/components/sections/Education.astro";
 import Certificates from "@/components/sections/Certificates.astro";
 import Experience from "@/components/sections/Experience.astro";
 import Hero from "@/components/sections/Hero.astro";
-import Projects from "@/components/sections/Projects.astro";
+import Ingles from "@/components/sections/Ingles.astro";
 import Skills from "@/components/sections/Skills.astro";
 import KeyboardManager from "@/components/KeyboardManager.astro";
 import ThemeSwitch from "@/components/ThemeSwitch.astro";
@@ -22,9 +22,10 @@ const { name, label } = basics;
 			<ThemeSwitch />
 		</div>
 		<div class="space-y-12 md:col-span-4 print:col-span-1 print:grid print:grid-cols-4 print:gap-2 print:space-y-0">
+			<Education className="order-first" />
+			<Ingles className="order-first" />
 			<Experience className="print:col-span-3" />
 			<!--<Projects className="print:hidden" />-->
-			<Education className="order-first" />
 			<!--<Certificates className="order-first" /> -->
       		<Skills className="print:hidden" />
 		</div>

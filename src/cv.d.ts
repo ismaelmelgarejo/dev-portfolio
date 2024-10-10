@@ -3,6 +3,7 @@ export interface CV {
   work: Array<Work>;
   volunteer: Array<Volunteer>;
   education: Array<Education>;
+  ingles: Array<Ingles>;
   awards: Array<Awards>;
   certificates: Array<Certificates>;
   publications: Array<Publications>;
@@ -21,7 +22,7 @@ interface Basics {
   email: string;
   url: string;
   summary: string;
-  location: Location;
+  location: Location; 
   profiles: Array<Profiles>;
 }
 
@@ -90,6 +91,17 @@ interface Publications {
 }
 
 interface Education {
+  institution: string;
+  url: string;
+  area: string;
+  studyType: string;
+  startDate: DateStr;
+  endDate: DateStr;
+  score: string;
+  courses: Array<string>;
+}
+
+interface Ingles {
   institution: string;
   url: string;
   area: string;
